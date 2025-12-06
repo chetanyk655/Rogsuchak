@@ -1,6 +1,6 @@
 import tomato from "./cropsImages/tomato.svg";
 import potato from "./cropsImages/potato.svg";
-import bellPepper from "./cropsImages/bellpepper.svg";
+import bellPepper from "./cropsImages/bellPepper.svg";
 import apple from "./cropsImages/apple.svg";
 import blueberry from "./cropsImages/blueberry.svg";
 import cherry from "./cropsImages/cherry.svg";
