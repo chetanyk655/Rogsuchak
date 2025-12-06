@@ -6,7 +6,7 @@ import ProfileSection from "./profilesection/ProfileSection";
 import notifOff from "./notifOff.svg";
 import notifOn from "./notifOn.svg";
 import SideMenu from "./SideMenu/SideMenu";
-import NotifDetails from "./notifDetails/NotifDetails";
+import notifDetails from "./notifDetails/notifDetails";
 import ham_dark from "./hamburgerIcon/dark.svg";
 import ham_light from "./hamburgerIcon/light.svg";
 import cross_dark from "./cross/dark.svg";
